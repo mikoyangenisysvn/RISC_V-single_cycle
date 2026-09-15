@@ -45,7 +45,7 @@ The design is verified with a self-checking testbench (`tb_RISCv_Single_Cycle`) 
 
 ## Status
 
-Lab 6 (this design) is complete and verified. It was subsequently used as the reusable RTL baseline for Lab 7, a 5-stage pipelined (IF/ID/EX/MEM/WB) conversion of this same core.
+This design is complete and verified. It was subsequently used as the reusable RTL baseline for a 5-stage pipelined (IF/ID/EX/MEM/WB) conversion of this same core.
 
 ## Tools
 
